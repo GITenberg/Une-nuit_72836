@@ -1,0 +1,32 @@
+_repo: Une-nuit_72836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernanos, Georges
+    birthdate: 1888
+    deathdate: 1948
+    gutenberg_agent_id: '56147'
+    url: http://www.gutenberg.org/2009/agents/56147
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georges_Bernanos
+    - https://fr.wikipedia.org/wiki/Georges_Bernanos
+description: ''
+gutenberg_issued: '2024-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72836'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=iZk-AAAAIAAJ
+pgterms:marc905: 20240118125919bernanos
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aParis :$bà la cité des livres, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Une nuit
+url: http://www.gutenberg.org/ebooks/72836
