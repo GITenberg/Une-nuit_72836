@@ -1,5 +1,8 @@
 _repo: Une-nuit_72836
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72836-h/images/cover.jpg
 creator:
   author:
     agent_name: Bernanos, Georges
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Georges_Bernanos
     - https://fr.wikipedia.org/wiki/Georges_Bernanos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72836#Une-nuit
 gutenberg_issued: '2024-01-30'
 gutenberg_type: Text
 identifiers:
